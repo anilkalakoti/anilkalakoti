@@ -3,8 +3,8 @@
 **Senior Backend & AI Engineer**  
 *.NET / C# | Node.js | Express | Prisma ORM | ParadeDB / PostgreSQL | LangChain | RAG*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anilkalakoti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilksmailid@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_&_AI_Roles-success?style=for-the-badge)](#)
 
 ---
